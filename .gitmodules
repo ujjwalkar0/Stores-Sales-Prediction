@@ -1,8 +1,8 @@
-[submodule "."]
-	url = git@github.com:ujjwalkar0/Big-Mart-Prediction-Website.git/
-[submodule "Big-Mart-Prediction-Website"]
-	path = Big-Mart-Prediction-Website
-	url = git@github.com:ujjwalkar0/Big-Mart-Prediction-Website.git
+#[submodule "."]
+#	url = git@github.com:ujjwalkar0/Big-Mart-Prediction-Website.git/
+#[submodule "Big-Mart-Prediction-Website"]
+#	path = Big-Mart-Prediction-Website
+#	url = git@github.com:ujjwalkar0/Big-Mart-Prediction-Website.git
 [submodule "Website"]
 	path = Website
-	url = git@github.com:ujjwalkar0/Website.git
+	url = https://github.com/ujjwalkar0/Stores-Sales-Prediction-Website/

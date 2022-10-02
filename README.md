@@ -15,3 +15,10 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 I am using a public dataset of Big Mart Prediction from the Kaggle.
 
 URL: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data?select=Train.csv
+
+## Implementation
+
+<b> Notebook: https://github.com/ujjwalkar0/Stores-Sales-Prediction/tree/main/Notebook </b>
+
+<b> Website: https://github.com/ujjwalkar0/Stores-Sales-Prediction-Website </b>
+
